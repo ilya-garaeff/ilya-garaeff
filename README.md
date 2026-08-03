@@ -11,8 +11,6 @@ Buenos Aires, Argentina · [ilyagaraeff.com](https://ilyagaraeff.com) · [Linked
 
 Currently based in Buenos Aires. Background: MBA (NSYSU Taiwan), M.Sc. Science & Technology Policy (UBA), CAPM. EN/ES/RU native-adjacent, ZH (HSK5), PT (learning).
 
-Open to AI Product Manager and AI Program/Quality Lead roles.
-
 **Portfolio with case studies: ilyagaraeff.com**
  
 ---
@@ -65,4 +63,4 @@ These document the ground-truth methodology behind reliable AI products — the 
 - **Prompt Engineering for Project Managers** — PMI (2025)
 ---
  
-*Open to AI/ML Operations, LLM Evaluation, and AI Quality roles globally.*
+*Open to AI Product Manager and AI Program/Quality Lead roles.*
