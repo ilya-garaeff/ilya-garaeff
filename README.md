@@ -1,20 +1,25 @@
 # Ilya Garaeff
  
-**AI/ML Operations Specialist** — LLM Evaluation · RLHF · RAG · Prompt Engineering
+**AI Product Manager (in transition)** — LLM Evaluation & RLHF → Product Judgment
  
 Buenos Aires, Argentina · [ilyagaraeff.com](https://ilyagaraeff.com) · [LinkedIn](https://www.linkedin.com/in/ilyagaraeff/)
  
 ---
  
 ## About
- 
-I specialize in the operational layer of AI development — the work that happens between a raw model and a reliable product. My focus is on evaluation design, human feedback workflows, and the multilingual alignment challenges that most teams underestimate.
- 
-Currently working as an AI Quality Analyst at Turing, evaluating frontier LLM personalization features for Google products. Previously at Mercor, leading end-to-end quality assurance across medical, legal, and financial AI domains in English, Russian, and Spanish.
+ I translate ground-truth eval work into product decisions. 1,000+ multilingual response evaluations across medical, legal, financial, and technical domains (Mercor, Turing) inform how I think about model quality, prompt behavior, and user-facing AI reliability — the same instincts an AI PM needs when scoping features, defining success metrics, or debugging why a model output feels wrong to a user.
+
+Currently based in Buenos Aires. Background: MBA (NSYSU Taiwan), M.Sc. Science & Technology Policy (UBA), CAPM. EN/ES/RU native-adjacent, ZH (HSK5), PT (learning).
+
+Open to AI Product Manager and AI Program/Quality Lead roles.
+
+**Portfolio with case studies: ilyagaraeff.com**
  
 ---
  
 ## Core Competencies
+
+These are the operational muscles behind good product decisions in AI — the specifics that separate "we shipped a feature" from "we shipped a feature that actually works for users.
  
 | Area | Details |
 |------|---------|
@@ -28,6 +33,8 @@ Currently working as an AI Quality Analyst at Turing, evaluating frontier LLM pe
 ---
  
 ## Featured Repositories
+
+These document the ground-truth methodology behind reliable AI products — the layer most PMs never see directly but every AI PM needs to understand.
  
 | Repository | Description |
 |------------|-------------|
